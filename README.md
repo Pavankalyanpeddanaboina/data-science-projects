@@ -15,7 +15,7 @@ Welcome to my collection of data science projects! Below are previews of some of
 - **Description**: Analyzed customer sentiments towards Ola and Uber to understand public perception and preferences.
   
 
-## Project 2: [Credit Card Fraud Prediction](file:///C:/Data%20sets/PROJECTS/credit%20card%20Fraud%20Prediction.html)
+## Project 2: [Credit Card Fraud Prediction](https://github.com/Pavankalyanpeddanaboina/data-science-projects/blob/main/bank%20customer%20churn%20%20(1).ipynb)
 - **Description**: Developed a model to predict fraudulent credit card transactions, enhancing security measures for financial institutions.
 
 
