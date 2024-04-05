@@ -23,7 +23,7 @@ Welcome to my collection of data science projects! Below are previews of some of
 - **Description**: Employed LSTM (Long Short-Term Memory) neural networks to predict Indian forex rates for Euro, aiding traders and investors in making informed financial decisions.
 
 
-## Project 4: [Bank Customer Churn Analysis](file:///C:/Data%20sets/PROJECTS/bank%20customer%20churn%20.html)
+## Project 4: [Bank Customer Churn Analysis](https://github.com/Pavankalyanpeddanaboina/data-science-projects/blob/main/bank%20customer%20churn%20%20(1).ipynb)
 - **Description**: Investigated factors contributing to bank customer churn, providing insights for customer retention strategies.
 
 
