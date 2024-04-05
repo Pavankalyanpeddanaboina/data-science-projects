@@ -10,7 +10,8 @@ From predicting things to digging into data for insights, join me as we dive int
 
 Welcome to my collection of data science projects! Below are previews of some of the projects available in this repository:
 
-## Project 1: [Sentiment Analysis of Ola and Uber](file:///C:/Data%20sets/PROJECTS/Sentiment%20Analysis%20of%20OLA%20and%20UBER.html)
+## Project 1: [Sentiment Analysis of Ola and Uber](Sentiment_Analysis.html)
+
 - **Description**: Analyzed customer sentiments towards Ola and Uber to understand public perception and preferences.
   
 
