@@ -19,7 +19,7 @@ Welcome to my collection of data science projects! Below are previews of some of
 - **Description**: Developed a model to predict fraudulent credit card transactions, enhancing security measures for financial institutions.
 
 
-## Project 3: [Forex forecasting using LSTM](file:///C:/Data%20sets/PROJECTS/forex%20forecasting%20%20(1).html)
+## Project 3: [Forex forecasting using LSTM](https://github.com/Pavankalyanpeddanaboina/data-science-projects/blob/main/forex%20forecasting%20%20(2).ipynb)
 - **Description**: Employed LSTM (Long Short-Term Memory) neural networks to predict Indian forex rates for Euro, aiding traders and investors in making informed financial decisions.
 
 
